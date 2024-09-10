@@ -1,0 +1,12 @@
+{
+    "name": "text-file-streamer",
+    "version": "1.0.0",
+    "description": "A Node.js application to stream and monitor changes in a text file",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": ["node", "streaming", "file-monitor"],
+    "author": "Your Name",
+    "license": "ISC"
+  }

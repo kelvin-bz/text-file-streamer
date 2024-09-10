@@ -1,0 +1,49 @@
+Line 1: This is a sample text file.
+Line 2: It contains multiple lines of text.
+Line 3: We'll use this to test our text file streamer.
+Line 4: The streamer should display the last 10 lines.
+Line 5: And then monitor for any changes.
+Line 6: When new lines are added,
+Line 7: they should be displayed immediately.
+Line 8: This file has 10 lines initially.
+Line 9: So we can see how it works with a full buffer.
+Line 10: This is the last line of the initial file.
+Line 11: We'll add more lines to see how the streamer handles it.
+Line 12: This is the next line. 
+Line 13: And another one. 
+Line 14: And so on. 
+Line 15: We'll keep adding lines until we have a good test. 
+Line 16: This is the last line of the initial file. 
+Line 17: We'll add more lines to see how the streamer handles it. 
+Line 18: This is the next line. 
+Line 19: And another one. 
+Line 20: And so on. 
+Line 21: This is the last line of the initial file. 
+Line 22: We'll add more lines to see how the streamer handles it. 
+Line 23: This is the next line. 
+Line 24: And another one. 
+Line 25: And so on.
+Line 26: This is the last line of the initial file.
+Line 27: We'll add more lines to see how the streamer handles it.
+Line 28: This is the next line.
+Line 29: And another one.
+Line 30: And so on.
+Line 31: This is the last line of the initial file.
+Line 32: We'll add more lines to see how the streamer handles it.
+Line 33: This is the next line.
+Line 34: And another one.
+Line 35: And so on.
+Line 36: This is the last line of the initial file.
+Line 37: We'll add more lines to see how the streamer handles it.
+Line 38: This is the next line.
+Line 39: And another one.
+Line 40: And so on.
+Line 41: This is the last line of the initial file.
+Line 42: We'll add more lines to see how the streamer handles it.
+Line 43: This is the next line.
+Line 44: And another one.
+
+
+
+
+
