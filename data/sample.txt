@@ -42,6 +42,7 @@ Line 41: This is the last line of the initial file.
 Line 42: We'll add more lines to see how the streamer handles it.
 Line 43: This is the next line.
 Line 44: And another one.
+Line 45: And so on.
 
 
 
