@@ -2,12 +2,23 @@
 
 This Node.js application streams and monitors changes in a text file, displaying the last lines that were added to the file.
 
+Output in terminal:
+
+```
+New content: Line 40: And so on.
+New content: Line 41: This is the last line of the initial file.
+New content: Line 42: We'll add more lines to see how the streamer handles it.
+New content: Line 43: This is the next line.
+New content: Line 43: This is the next line.
+New content: Line 43: This is the next line.
+New content: Line 44: And another one.
+```
+
 ## Project Structure
 
 - `package.json`: Project configuration
 - `index.js`: Main application script
 - `data/sample.txt`: Sample text file for streaming
-- 
 ## Setup
 Run `npm install` to install the dependencies.
 
